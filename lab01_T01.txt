@@ -1,0 +1,23 @@
+/*
+Lab    : 01
+Name   : Maryam Majeed
+Roll No: 2026-SE-12
+Date   :24-11-2026
+Purpose: To make student profile
+*/
+# include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"===================================\n";
+	cout<<"         STUDENT PROFILE/n";
+        count<<===================================\n";
+	cout<<"Name\t\t: Maryam Majeed\n";
+	cout<<"Roll no\t\t: 2026-SE-12\n";
+	cout<<"Program\t\t: BS software Engg.\n";
+	cout<<"Semester\t: 1\n";
+	cout<<"Motto\t\t:\"Code. Test. Repeat.\"\n";
+	cout<<"Folder\t\t: D:\\Students\\Lab01\n";
+        count<<====================================\n";
+	return 0;
+}
